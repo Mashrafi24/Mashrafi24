@@ -15,6 +15,9 @@
 - C
 - HTML
 - CSS
+- SQL
+- Power BI
+- Excel
 - Django
 - Git and GitHub
 
