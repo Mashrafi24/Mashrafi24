@@ -4,7 +4,7 @@
 
 - 🎓 ICT Undergraduate at MBSTU
 - 💻 Learning C,C++,Java, Python and Django
-- 🌱 Interested in Web Development, OOP and IoT,Robotics,Machine Learnirg
+- 🌱 Interested in Data Analist,Web Development, OOP and IoT,Robotics,Machine Learnirg
 - 🛠️ Currently building academic and personal projects
 - 📫 GitHub: [Mashrafi24](https://github.com/Mashrafi24)
 
